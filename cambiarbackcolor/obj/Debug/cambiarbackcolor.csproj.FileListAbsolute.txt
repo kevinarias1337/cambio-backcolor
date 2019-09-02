@@ -1,0 +1,10 @@
+D:\cambiarbackcolor\cambiarbackcolor\bin\Debug\cambiarbackcolor.exe.config
+D:\cambiarbackcolor\cambiarbackcolor\bin\Debug\cambiarbackcolor.exe
+D:\cambiarbackcolor\cambiarbackcolor\bin\Debug\cambiarbackcolor.pdb
+D:\cambiarbackcolor\cambiarbackcolor\obj\Debug\cambiarbackcolor.csprojAssemblyReference.cache
+D:\cambiarbackcolor\cambiarbackcolor\obj\Debug\cambiarbackcolor.programa.resources
+D:\cambiarbackcolor\cambiarbackcolor\obj\Debug\cambiarbackcolor.Properties.Resources.resources
+D:\cambiarbackcolor\cambiarbackcolor\obj\Debug\cambiarbackcolor.csproj.GenerateResource.cache
+D:\cambiarbackcolor\cambiarbackcolor\obj\Debug\cambiarbackcolor.csproj.CoreCompileInputs.cache
+D:\cambiarbackcolor\cambiarbackcolor\obj\Debug\cambiarbackcolor.exe
+D:\cambiarbackcolor\cambiarbackcolor\obj\Debug\cambiarbackcolor.pdb
